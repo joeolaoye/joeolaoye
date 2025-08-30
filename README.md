@@ -33,8 +33,8 @@ I’m a **technology leader, builder, and founder** passionate about solving com
 ---
 
 ## 🤝 Let’s Connect
-- 🌐 [Website](https://tjoc.dev)
-- 🌐 [Website](https://joeolaoye.co) 
+- 🌐 [My Personal Website](https://joeolaoye.co) 
+- 🌐 [TJOC Website](https://tjoc.dev)
 - 💼 [LinkedIn](https://linkedin.com/in/joeolaoye)  
 - 🐦 [Twitter/X](https://twitter.com/joeolaoye)  
 
